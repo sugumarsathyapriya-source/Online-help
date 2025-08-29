@@ -2,4 +2,5 @@ site_name: Online Help
 theme:
   name: material
 nav:
-  - Home: index.md
+  - Home: welcome.md
+  
