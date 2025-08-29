@@ -8,7 +8,7 @@ To create a free Zoom account, follow the step-by-step instructions given below:
 3. Enter your birth year. Click **Continue**.  
    ![Signup button](images/2025-08-29-11-43-00.png)  
 4. Enter your email address. Click **Continue**.
-   ![Signup button](images/2025-08-29-11-45-32.png)  
+   ![Signup button](images/2025-08-29-11-45-32.png)
 5. Enter the verification code sent to your email address. Click **Verify**.  
    ![Signup button](images/2025-08-29-11-49-03.png)  
 6. Enter your full name and set a new passowrd. Click **Verify**.  
@@ -26,6 +26,7 @@ A basic Zoom license is free.
 ### 3. How do I join a Zoom meeting?
 
 You can join a meeting by clicking the meeting link or going to [join.zoom.us](https://join.zoom.us) and entering in the meeting ID.     
+
 
 
 
