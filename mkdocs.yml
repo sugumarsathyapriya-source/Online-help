@@ -2,5 +2,5 @@ site_name: Online Help
 theme:
   name: material
 nav:
-  - Home: welcome.md
+  - Create zoom account: welcome.md
   
